@@ -16,7 +16,7 @@ app.add_middleware(
 
 @app.get("/")
 def give_name():
-    return{"riyas"}
+    return{"Health":"Good"}
 
 class Message(BaseModel):
     text:str

@@ -1,0 +1,120 @@
+{
+  "name": "Riyas",
+  "role": "Full Stack Developer",
+  "about": "I am a full-stack developer who enjoys building web applications, solving problems, and turning ideas into real products.",
+  "location": "India",
+  "skills": {
+    "frontend": [
+      "Next.js",
+      "React",
+      "Tailwind CSS",
+      "Shadcn UI",
+      "Framer Motion"
+    ],
+    "backend": [
+      "FastAPI",
+      "Python",
+      "REST APIs"
+    ],
+    "database": [
+      "PostgreSQL",
+      "Supabase"
+    ],
+    "cloud": [
+      "AWS RDS",
+      "AWS S3",
+      "Render",
+      "Vercel"
+    ],
+    "tools": [
+      "Git",
+      "VS Code",
+      "Figma",
+      "Stripe",
+      "Clerk"
+    ]
+  },
+  "projects": [
+    {
+      "name": "E-Commerce Platform",
+      "description": "An e-commerce platform built using Next.js, FastAPI, PostgreSQL, Stripe, Clerk, AWS RDS, and AWS S3.",
+      "technologies": [
+        "Next.js",
+        "FastAPI",
+        "PostgreSQL",
+        "Stripe",
+        "Clerk",
+        "AWS"
+      ]
+    },
+    {
+      "name": "Goods Management System",
+      "description": "A management system that stores goods, tracks manufactured dates, categorizes aging products, and visualizes them using a funnel interface.",
+      "technologies": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "name": "Personal AI Portfolio",
+      "description": "An interactive portfolio where visitors can talk to a digital version of Riyas through AI-powered conversations.",
+      "technologies": [
+        "Next.js",
+        "FastAPI",
+        "Gemini",
+        "Semantic Search"
+      ]
+    }
+  ],
+  "experience": [
+    "Building full-stack web applications",
+    "Designing APIs with FastAPI",
+    "Creating responsive user interfaces with Next.js",
+    "Working with PostgreSQL databases",
+    "Integrating payment systems using Stripe"
+  ],
+  "business": {
+    "type": "Digital Marketing Company",
+    "description": "I run a digital marketing company and create content for platforms such as Instagram and YouTube."
+  },
+  "goals": [
+    "Become an exceptional software engineer",
+    "Build products used by millions of people",
+    "Continue improving my problem-solving skills",
+    "Create impactful software businesses"
+  ],
+  "personality": {
+    "traits": [
+      "Curious",
+      "Ambitious",
+      "Problem Solver",
+      "Builder",
+      "Self Learner"
+    ],
+    "likes": [
+      "Coding",
+      "Creating products",
+      "Learning new technologies",
+      "Solving technical challenges"
+    ]
+  },
+  "faq": [
+    {
+      "question": "What is your name?",
+      "answer": "My name is Riyas."
+    },
+    {
+      "question": "What do you do?",
+      "answer": "I am a Full Stack Developer and entrepreneur."
+    },
+    {
+      "question": "What technologies do you use?",
+      "answer": "I mainly work with Next.js, FastAPI, PostgreSQL, AWS, Tailwind CSS, Stripe, and Clerk."
+    },
+    {
+      "question": "What is your goal?",
+      "answer": "My goal is to build products that can reach millions of users and become a great software engineer."
+    }
+  ]
+}
